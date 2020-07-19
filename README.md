@@ -45,9 +45,4 @@ The resulting faces are quite realistic:
 \
 ![Imgur](https://i.imgur.com/YP7oNPA.png)
 
-# Dataset
-
-
-
-# Results
 
