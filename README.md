@@ -1,12 +1,4 @@
-# Face Generation with Generative Adversarial Neural Networks
 
-
-
-! [Imgur](https://i.imgur.com/OrSV9by.png)
-
-We define and train a DCGAN on a dataset of faces. We get a generator network to generate new images of faces that look as realistic as possible!
-
-The project is broken down into a series of tasks from loading in data to defining and training adversarial networks. At the end of the notebook, we are able to visualize the results of the trained Generator and see how it performs; our generated samples look like fairly realistic faces with small amounts of noise.
 # Face Generation with Generative Adversarial Neural Networks
 This projectwas developed under the udacity deep learning degree. We define and train a DCGAN on a dataset of faces. We get a generator network to generate new images of faces that look as realistic as possible!
 \
